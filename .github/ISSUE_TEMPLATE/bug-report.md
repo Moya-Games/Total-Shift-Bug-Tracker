@@ -27,8 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Windows]
  - Version [e.g. 22]
 
-** Add a Label from the right side menu **
-*Delete this when posting* (Add a label for "Bug" if it's a bug, etc.
+** Add a Label **
+*Delete this when posting* (Add a label for "Bug" if it's a bug, etc.)
 
 **Additional context**
 Add any other context about the problem here.
